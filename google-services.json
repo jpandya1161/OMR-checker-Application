@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1097052210053",
+    "project_id": "omr-checker-app",
+    "storage_bucket": "omr-checker-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097052210053:android:3a760b28f329e16e7a3aec",
+        "android_client_info": {
+          "package_name": "com.msquare.omr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097052210053-35nancve16db0491oofvs87vfe04hrn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdTAj1zhRnRhQuGCPrEv0SmbPwY3-YkgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097052210053-35nancve16db0491oofvs87vfe04hrn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
